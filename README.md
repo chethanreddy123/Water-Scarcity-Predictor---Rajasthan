@@ -29,6 +29,10 @@ Overall, the proposed web app has the potential to make a significant impact on 
 Rajasthan by providing them with reliable water services and the government with critical tools to manage and conserve 
 the state's precious water resources.
 
+DataSet Sample:
+![image](https://user-images.githubusercontent.com/69640722/226513098-693ad175-f594-4ad0-9ef6-fea78b08f103.png)
+
+
 ## Project Samples:
 
 ![image](https://user-images.githubusercontent.com/69640722/226501286-1a3a1019-8938-4b2f-a37a-dc775411a4ad.png)
