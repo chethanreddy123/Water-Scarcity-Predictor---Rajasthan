@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/69640722/226498402-941b2656-bece-4ac0-baf7-655575e746f9.png)
 
 
-## Problem Statement
+## Problem Statement (Project Link) (Front End Code Link)
 
 Rajasthan, India faces a dire water crisis with over 80% of its villages experiencing water scarcity.
 This has led to a significant increase in the number of water-related illnesses and deaths, especially among 
